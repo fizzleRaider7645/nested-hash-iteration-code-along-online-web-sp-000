@@ -20,4 +20,5 @@ def remove_strawberry(contacts)
       values[favorite_ice_cream_flavors].delete("strawberry")
     end
   end
+  contacts
 end
